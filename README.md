@@ -6,13 +6,9 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Explore cloud native technology and combine production requirements.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
-
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Strive to develop a suitable k8s control platform
 
 
 
@@ -23,6 +19,8 @@
 - 💻 &nbsp; Go | Java | MySQL
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | VUE 
+
+- 🔧 &nbsp; Kubernetes | Docker🐳 | Devops | K8s-operator
 
 <!--
 
@@ -38,7 +36,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; VUE | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; VUE | Docker🐳 | K8s-operator
 
 <hr>
 
