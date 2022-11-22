@@ -54,7 +54,7 @@
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scx1st&show_icons=true)
 
 <br><br>
 
@@ -65,7 +65,7 @@
 
 
 <h3> 🤝🏻 Connect with Me </h3>
-
+<br>
 <p align="center">
   
 <a><img alt="Instagram" src="https://img.shields.io/badge/phone-18390210093-brightgreen"></a>
