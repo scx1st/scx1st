@@ -66,7 +66,7 @@
 <br>
 <p align="center">
   
-<a><img alt="Instagram" src="https://img.shields.io/badge/phone-18390210093-brightgreen"></a>
+<a><img alt="Instagram" src="https://img.shields.io/badge/qq-1959077155-brightgreen"></a>
 
 <a href="mailto:songchunxiang2016@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
