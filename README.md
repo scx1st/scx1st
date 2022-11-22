@@ -67,7 +67,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
-
 <p align="center">
   
 <a><img alt="Instagram" src="https://img.shields.io/badge/phone-18390210093-brightgreen"></a>
