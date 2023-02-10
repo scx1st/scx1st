@@ -44,41 +44,4 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scx1st&show_icons=true)](https://github.com/scx1st)
-
-<br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-<br><br>
-
-
-
-<hr>
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-<br>
-<p align="center">
-  
-<a><img alt="Instagram" src="https://img.shields.io/badge/qq-1959077155-brightgreen"></a>
-
-<a href="mailto:songchunxiang2016@gmail.com"><img alt="Email" src="https://img.shields.io/badge/songchunxiang2016@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
-
-
-
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=scx1st.scx1st)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
-
-<hr>
-
-
 
