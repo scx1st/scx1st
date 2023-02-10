@@ -38,7 +38,6 @@
 
 - 🔧 &nbsp; VUE | Docker🐳 | K8s-operator
 
-<hr>
 
 
 
